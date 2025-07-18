@@ -1,4 +1,4 @@
-# PFE Project: Teaching Children to Code Using Drag and Drop with Blockly and Ansible
+#  Project: Teaching Children to Code Using Drag and Drop with Blockly and Ansible
 
 This PROJECT is for creating a platform for teaching children how to code using a drag-and-drop, puzzle-like interface similar to Scratch. The project utilizes the Blockly module from Google and incorporates automation using Ansible.
 
