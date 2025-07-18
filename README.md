@@ -1,10 +1,10 @@
 # PFE Project: Teaching Children to Code Using Drag and Drop with Blockly and Ansible
 
-This is a PFE  (Projet fin d'étude) for graduation, aimed at creating a platform for teaching children how to code using a drag-and-drop, puzzle-like interface similar to Scratch. The project utilizes the Blockly module from Google and incorporates automation using Ansible.
+This PROJECT is for creating a platform for teaching children how to code using a drag-and-drop, puzzle-like interface similar to Scratch. The project utilizes the Blockly module from Google and incorporates automation using Ansible.
 
 ## Installation, Running, and Building
 
-1. Clone the repository: `git clone https://github.com/Oussamirsekkal/l3pfe.git `
+1. Clone the repository: `git clone https://github.com/Oussamirsekkal/Project-Z.git `
 2. Navigate to the project directory: `cd l3pfe`
 3. Install dependencies: `npm install`
 4. Run the project locally: `npm run dev` (Access the application at `http://localhost:3000`)
