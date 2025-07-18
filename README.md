@@ -5,7 +5,7 @@ This PROJECT is for creating a platform for teaching children how to code using 
 ## Installation, Running, and Building
 
 1. Clone the repository: `git clone https://github.com/Oussamirsekkal/Project-Z.git `
-2. Navigate to the project directory: `cd l3pfe`
+2. Navigate to the project directory: `cd Project-Z.`
 3. Install dependencies: `npm install`
 4. Run the project locally: `npm run dev` (Access the application at `http://localhost:3000`)
 5. Build for production: `npm run build`
