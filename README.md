@@ -5,7 +5,7 @@ This PROJECT is for creating a platform for teaching children how to code using 
 ## Installation, Running, and Building
 
 1. Clone the repository: `git clone https://github.com/Oussamirsekkal/Project-Z.git `
-2. Navigate to the project directory: `cd Project-Z.`
+2. Navigate to the project directory: `cd Project-Z`
 3. Install dependencies: `npm install`
 4. Run the project locally: `npm run dev` (Access the application at `http://localhost:3000`)
 5. Build for production: `npm run build`
@@ -17,8 +17,8 @@ Ce projet de fin d'études vise à créer une plateforme permettant d'enseigner 
 
 ## Installation, Exécution et Construction
 
-1. Cloner le dépôt : `git clone https://github.com/Oussamirsekkal/l3pfe.git`
-2. Naviguer vers le répertoire du projet : `cd l3pfe`
+1. Cloner le dépôt : `git clone https://github.com/Oussamirsekkal/Project-Z.git`
+2. Naviguer vers le répertoire du projet : `cd Project-Z`
 3. Installer les dépendances : `npm install`
 4. Exécuter le projet en local : `npm run dev` (Accéder à l'application sur `http://localhost:3000`)
 5. Construire pour la production : `npm run build`
