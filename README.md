@@ -11,7 +11,7 @@ This PROJECT is for creating a platform for teaching children how to code using 
 5. Build for production: `npm run build`
 6. Start the production server: `npm start` (Access the application at `http://localhost:3000`)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Enseigner aux enfants le codage avec un système de glisser-déposer à l'aide de Blockly et Ansible
+# Projet: Enseigner aux enfants le codage avec un système de glisser-déposer à l'aide de Blockly et Ansible
 
 Ce projet de fin d'études vise à créer une plateforme permettant d'enseigner aux enfants le codage à l'aide d'une interface de glisser-déposer, similaire à Scratch. Le projet utilise le module Blockly de Google et intègre l'automatisation avec Ansible.
 
